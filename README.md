@@ -1,2 +1,2 @@
 # StockedX
-Checking prices and availability of shoes on StockX
+Price Threshold Notification for Shoes on StockX
